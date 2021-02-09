@@ -17,3 +17,7 @@
     - Alinear siempre
 - Simplificar pero no recortar
 - Disminuir el sesgo
+
+## Ética en la visualización de datos
+- Comprender nuestro papel ante la audiencia
+- Credibilidad y mensaje
