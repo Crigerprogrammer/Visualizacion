@@ -30,3 +30,8 @@ Es una data vis de frecuencia que da a entender el total de nuestros datos.
 
 ## Gráfica de pie
 Es un círculo donde las categorías tendrán una representación, es recomendable para utilizar menos de 5 para no saturar la gráfica y sea dificil de visualizar 
+
+## Gráfica de dispersión
+Es utilizada en ciencia de datos y business intelligence
+Es un grafico de puntos 
+los colores son importantes, y saber que decir
