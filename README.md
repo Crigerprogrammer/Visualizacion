@@ -21,3 +21,9 @@
 ## Ética en la visualización de datos
 - Comprender nuestro papel ante la audiencia
 - Credibilidad y mensaje
+
+## Gráfica de barras
+-¿Qué es una gráfica de barras?
+Es una data vis de frecuencia que da a entender el total de nuestros datos. 
+- Que no hacer:
+    - No utilizar el mismo color
