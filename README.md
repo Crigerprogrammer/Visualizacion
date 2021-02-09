@@ -4,3 +4,5 @@
 - Power BI
 - Google Analytics
 - Data Studio
+
+## Ejemplos de visualizaciones
