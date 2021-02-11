@@ -41,3 +41,6 @@ Muestra el tamaño de la población por medio del tamaño de la burbuja
 
 ## Gráfica de mapas
 Es un data visualization de visualización de datos geografícamente, es necesario datos geolocazicaciones 
+
+## Gráfica de heat map
+Este tipo de visualización permite colocar una paleta de colores para resaltar información (lugares)
