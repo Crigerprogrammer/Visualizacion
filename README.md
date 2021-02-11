@@ -35,3 +35,6 @@ Es un círculo donde las categorías tendrán una representación, es recomendab
 Es utilizada en ciencia de datos y business intelligence
 Es un grafico de puntos 
 los colores son importantes, y saber que decir
+
+## Gráfica de burbujas
+Muestra el tamaño de la población por medio del tamaño de la burbuja
