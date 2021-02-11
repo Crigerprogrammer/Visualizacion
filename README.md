@@ -38,3 +38,6 @@ los colores son importantes, y saber que decir
 
 ## Gráfica de burbujas
 Muestra el tamaño de la población por medio del tamaño de la burbuja
+
+## Gráfica de mapas
+Es un data visualization de visualización de datos geografícamente, es necesario datos geolocazicaciones 
