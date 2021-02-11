@@ -47,3 +47,13 @@ Este tipo de visualización permite colocar una paleta de colores para resaltar 
 
 ## Gráfica de tablas
 Únicamente son columnas y filas, se acompaña la tabla con otro gráfico para poder mostrar la información, esto es en el business intelligence
+
+## ¿Cómo afecta la visualización de datos en tu negocio?
+Son fundamental en los negocios, importante para los reportes
+Tenemos que disminuir la carga cógnitiva 
+Dirección y Gerencia tiene poco tiempo, por eso debemos de dar la información en poco tiempo, para facilitar la toma de decisiones.
+
+- Comunicación
+Es importante la data visualization para comunicarnos con el equipo, para transmitir mensajes y que nos puedan entender 
+
+- Eficiencia y mejora
