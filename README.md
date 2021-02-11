@@ -44,3 +44,6 @@ Es un data visualization de visualización de datos geografícamente, es necesar
 
 ## Gráfica de heat map
 Este tipo de visualización permite colocar una paleta de colores para resaltar información (lugares)
+
+## Gráfica de tablas
+Únicamente son columnas y filas, se acompaña la tabla con otro gráfico para poder mostrar la información, esto es en el business intelligence
