@@ -57,3 +57,5 @@ Dirección y Gerencia tiene poco tiempo, por eso debemos de dar la información 
 Es importante la data visualization para comunicarnos con el equipo, para transmitir mensajes y que nos puedan entender 
 
 - Eficiencia y mejora
+
+## Agregar valor usando los datos
